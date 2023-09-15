@@ -1,0 +1,28 @@
+body{
+    background-image: url("field.jpg");
+    background-size: 100% 100%;
+}
+
+#game{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 5px solid;
+}
+
+#scoreText{
+    font-family: "consolas", monospace;
+    font-size: 100px;
+}
+
+#reset{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: lime;
+}
